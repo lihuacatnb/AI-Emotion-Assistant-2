@@ -5,15 +5,12 @@
 项目构建了一个基于 Ollama 平台的本地 AI 情绪助手系统，前端使用 Vue 框架，具备情感分析等功能。由于当前版本尚未进行调优，因此项目适用于本科毕业设计，不适用商业应用。<br>
 <br>
 _The project has built a local AI emotion assistant system based on the Ollama platform, using the Vue framework for the frontend, with features such as emotion analysis. As the current version has not been fine-tuned, the project is suitable for undergraduate dissertation work and not for commercial applications_ <br>
-
 ## 2.项目基础（Project Foundation）
 本项目前端使用了开源项目 __Fully-featured & beautiful web interface for Ollama LLMs__ , 网址为 https://github.com/jakobhoeg/nextjs-ollama-llm-ui .<br>
 _This project uses the open-source project __Fully-featured & beautiful web interface for Ollama LLMs__ ,the website is https://github.com/jakobhoeg/nextjs-ollama-llm-ui_
-
 <br>
 <br>
 大模型使用了 __L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF__ 模型，网址为 https://huggingface.co/Ransss/L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF <br>
-
 _The model used is the __L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF__ model, the website is https://huggingface.co/Ransss/L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF_
 
 模型文件在 __/others__ 文件中的 __/models__ 中。<br>
