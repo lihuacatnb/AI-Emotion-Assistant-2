@@ -6,10 +6,15 @@
 <br>
 _The project has built a local AI emotion assistant system based on the Ollama platform, using the Vue framework for the frontend, with features such as emotion analysis. As the current version has not been fine-tuned, the project is suitable for undergraduate dissertation work and not for commercial applications_ <br>
 ## 2.项目基础（Project Foundation）
-### (1)前端基础(Front-end foundation)
+### （1）前端基础（Front-end Foundation）
 前端使用了开源项目 __Fully-featured & beautiful web interface for Ollama LLMs__ , 网址为 https://github.com/jakobhoeg/nextjs-ollama-llm-ui .<br>
-_The frontend of the user's project uses the open-source project __Fully-featured & beautiful web interface for Ollama LLMs__, available at https://github.com/jakobhoeg/nextjs-ollama-llm-ui_ <br>
 <br>
+_The frontend of the user's project uses the open-source project __Fully-featured & beautiful web interface for Ollama LLMs__, available at https://github.com/jakobhoeg/nextjs-ollama-llm-ui_ 
+### （2）后端基础（Back-end Foundation）
+后端的模型使用了 __L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF__ 模型，网址为 https://huggingface.co/Ransss/L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF <br>
+<br>
+_The backend of the user's project uses the __L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF__ model, available at https://huggingface.co/Ransss/L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF)._
+
 <br>
 大模型使用了 __L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF__ 模型，网址为 https://huggingface.co/Ransss/L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF <br>
 _The model used is the __L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF__ model, the website is https://huggingface.co/Ransss/L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF_
