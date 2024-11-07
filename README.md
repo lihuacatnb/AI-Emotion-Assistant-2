@@ -45,10 +45,10 @@ _Thanks to __Mentor Chen Wei__ from Yanjing University of Science and Technology
 感谢燕京理工学院 __刘淑艳导师__ 的指导 <br>
 _Thanks to __Mentor Liu Shuyan__ from Yanjing University of Science and Technology for the guidance._
 ## 5.项目展示（Project Display）
-<img src="/others/show-1.png"/><br>
+<img src="/show-1.png"/><br>
 <br>
 <br>
-<img src="/others/show-2.png"/><br>
+<img src="/show-2.png"/><br>
 <br>
 <br>
 
