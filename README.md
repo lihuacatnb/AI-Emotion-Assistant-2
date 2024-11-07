@@ -14,6 +14,7 @@ _This project uses the open-source project __Fully-featured & beautiful web inte
 <br>
 大模型使用了 __L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF__ 模型，网址为 https://huggingface.co/Ransss/L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF <br>
 
+_The model used is the __L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF__ model, the website is https://huggingface.co/Ransss/L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF_
 
 
 
