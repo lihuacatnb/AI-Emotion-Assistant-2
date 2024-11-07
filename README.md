@@ -8,10 +8,7 @@ _The project has built a local AI emotion assistant system based on the Ollama p
 
 ## 2.项目基础（Project Foundation）
 本项目前端使用了开源项目 __Fully-featured & beautiful web interface for Ollama LLMs__ , 网址为 https://github.com/jakobhoeg/nextjs-ollama-llm-ui <br>
-<br>
-_This project uses the open-source project __Fully-featured & beautiful web interface for Ollama LLMs__ <br>
-<br>
-_The open source file is in the __from-open-resources.zip__ file in the __/others__ file._ <br>
+_This project uses the open-source project __Fully-featured & beautiful web interface for Ollama LLMs__ ,the website is [URL_ADDRESS](https://github.com/jakobhoeg/nextjs-ollama-llm-ui)<br>
 <br>
 大模型使用了 __L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF__ 模型，网址为 https://huggingface.co/Ransss/L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF <br>
 <br>
