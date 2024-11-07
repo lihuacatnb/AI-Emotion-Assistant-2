@@ -13,7 +13,7 @@ _The frontend of the user's project uses the open-source project __Fully-feature
 ### （2）后端基础（Back-end Foundation）
 后端的模型使用了 __L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF__ 模型，网址为 https://huggingface.co/Ransss/L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF <br>
 <br>
-_The backend of the user's project uses the __L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF__ model, available at https://huggingface.co/Ransss/L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF)._
+_The backend of the user's project uses the __L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF__ model, available at https://huggingface.co/Ransss/L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF._
 ## 3.项目运行（Project Running）
 ### （1）前端环境 （Front-end Environment）
 Node 18.16.0 <br>
