@@ -8,7 +8,15 @@ _The project has built a local AI emotion assistant system based on the Ollama p
 
 ## 2.项目基础（Project Foundation）
 本项目前端使用了开源项目 __Fully-featured & beautiful web interface for Ollama LLMs__ , 网址为 https://github.com/jakobhoeg/nextjs-ollama-llm-ui .<br>
-_This project uses the open-source project __Fully-featured & beautiful web interface for Ollama LLMs__ ,the website is https://github.com/jakobhoeg/nextjs-ollama-llm-ui  _<br>
+_This project uses the open-source project __Fully-featured & beautiful web interface for Ollama LLMs__ ,the website is https://github.com/jakobhoeg/nextjs-ollama-llm-ui_
+
+
+
+
+
+  _
+
+<br>
 <br>
 
 
