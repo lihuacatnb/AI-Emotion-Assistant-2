@@ -38,11 +38,12 @@ _The model file is in the __/models__ folder in the __/others__ file. Note that 
 _The model file is in the __/models__ folder in the __/others__ file. Note that the path needs to be modified to your own path._
 ## 4.开发人员（Developers）
 狸猫科技 _Lihuacat Technology_ <br>
+<br>
 感谢燕京理工学院 __陈炜导师__ 的指导 <br>
-_Thanks to __Mentor Chen Wei__ from Yanjing University of Science and Technology for the guidance._<br>
+_Thanks to __Mentor Chen Wei__ from Yanjing University of Science and Technology for the guidance._ <br>
+<br>
 感谢燕京理工学院 __刘淑艳导师__ 的指导 <br>
 _Thanks to __Mentor Liu Shuyan__ from Yanjing University of Science and Technology for the guidance._
-
 ## 5.项目展示（Project Display）
 <img src="/others/show-1.png"/><br>
 <br>
