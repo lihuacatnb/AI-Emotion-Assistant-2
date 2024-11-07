@@ -12,12 +12,6 @@ _This project uses the open-source project __Fully-featured & beautiful web inte
 <br>
 大模型使用了 __L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF__ 模型，网址为 https://huggingface.co/Ransss/L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF <br>
 _The model used is the __L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF__ model, the website is https://huggingface.co/Ransss/L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF_
-
-模型文件在 __/others__ 文件中的 __/models__ 中。<br>
-<br>
-_The model file is in the __/models__ folder in the __/others__ file._ <br>
-<br>
-
 ## 3.项目运行（Project Running）
 ### （1）前端环境 （Front-end Environment）
 Node 18.16.0 <br>
