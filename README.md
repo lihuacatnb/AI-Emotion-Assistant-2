@@ -25,16 +25,13 @@ Ollama 最新版 （The latest version of Ollama）<br>
 ### （4）后端运行 （Back-end Running）
 #### <1> 模型部署
 部署请参考 Ollama 的 GitHub 仓库，在 README.md 文件中查看 __自定义模型__ 章节。<br>
-<br>
 _For project deployment, refer to Ollama’s GitHub repository. In the README.md file, see the section on __Customize a model__._
 #### <2> 模型运行
 ##### -1- Modelfile文件
 在项目的 __/others/models__ 文件夹中,有一个 __Modelfile__ 文件，用记事本打开，显示`FROM C:/Users/lihuacat/l3-umbral-mind-rp-v0.3-8b-q8_0/l3-umbral-mind-rp-v0.3-8b-q8_0.gguf` 注意修改路径为自己的路径。<br>
-<br>
 _The model file is in the __/models__ folder in the __/others__ file. Note that the path needs to be modified to your own path._
 ##### -2- 
 在 cmd 中先输入模型文件路径，再输入 `ollama create l3-umbral-mind-rp-v0.3-8b-q8_0 -f Modelfile` 注意修改路径为自己的路径。<br>
-<br>
 _The model file is in the __/models__ folder in the __/others__ file. Note that the path needs to be modified to your own path._
 ##### -3-
 在 cmd 中输入 `ollama run l3-umbral-mind-rp-v0.3-8b-q8_0` 测试，注意修改路径。<br>
