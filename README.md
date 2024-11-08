@@ -27,7 +27,7 @@ Ollama 最新版 （The latest version of Ollama）
 _After downloading the model file, open the folder where the model is located and create a new file named __Modelfile__. Once created, the model file structure will appear as shown in the image._ <br>
 <br>
 <img src="/show11.png"/><br>
-使用记事本或任意文本编辑器打开 `Modelfile` 文件，输入以下内容
+使用记事本或任意文本编辑器打开 `Modelfile` 文件，输入以下内容<br>
 _Open the `Modelfile` using Notepad or any text editor, and enter the following content._ <br>
 <br>
 ```plaintext
@@ -35,6 +35,7 @@ _Open the `Modelfile` using Notepad or any text editor, and enter the following 
 ```
 <br>
 示例
+
 ```plaintext
     FROM C:/Users/lihuacat/l3-umbral-mind-rp-v0.3-8b-q8_0/l3-umbral-mind-rp-v0.3-8b-q8_0.gguf
 ```
