@@ -33,7 +33,8 @@ _After downloading the model file, open the folder where the model is located an
     FROM <模型路径>/l3-umbral-mind-rp-v0.3-8b-q8_0.gguf
 ```
 <br>
-示例<br>
+示例
+
 ```plaintext
     FROM C:/Users/lihuacat/l3-umbral-mind-rp-v0.3-8b-q8_0/l3-umbral-mind-rp-v0.3-8b-q8_0.gguf
 ```
