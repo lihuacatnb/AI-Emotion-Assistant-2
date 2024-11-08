@@ -34,16 +34,17 @@ _Open the `Modelfile` using Notepad or any text editor, and enter the following 
     FROM <模型路径>/l3-umbral-mind-rp-v0.3-8b-q8_0.gguf
 ```
 <br>
-示例(example)
+示例 example
 
 ```plaintext
     FROM C:/Users/lihuacat/l3-umbral-mind-rp-v0.3-8b-q8_0/l3-umbral-mind-rp-v0.3-8b-q8_0.gguf
 ```
 <br>
+
 在 cmd 中先输入 __模型文件夹路径__ ，再输入 `ollama create l3-umbral-mind-rp-v0.3-8b-q8_0 -f Modelfile` <br>
 In the command prompt, first enter the __model folder path__, then enter `ollama create l3-umbral-mind-rp-v0.3-8b-q8_0 -f Modelfile`<br>
 <br>
-最后，在 cmd 中输入 `ollama run l3-umbral-mind-rp-v0.3-8b-q8_0` 测试<br>
+最后，在 cmd 中输入 `ollama run l3-umbral-mind-rp-v0.3-8b-q8_0` 测试 <br>
 Finally, in the command prompt, enter `ollama run l3-umbral-mind-rp-v0.3-8b-q8_0` to test.
 
 ## 4.开发人员（Developers）
