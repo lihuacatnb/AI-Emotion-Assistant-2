@@ -45,6 +45,7 @@ In the command prompt, first enter the __model folder path__, then enter `ollama
 <br>
 最后，在 cmd 中输入 `ollama run l3-umbral-mind-rp-v0.3-8b-q8_0` 测试<br>
 Finally, in the command prompt, enter `ollama run l3-umbral-mind-rp-v0.3-8b-q8_0` to test.
+
 ## 4.开发人员（Developers）
 狸猫科技 _Lihuacat Technology_ <br>
 <br>
