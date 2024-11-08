@@ -59,7 +59,7 @@ _Thanks to __Mentor Liu Shuyan__ from Yanjing University of Science and Technolo
 <img src="/show-1.png"/><br>
 <br>
 <br>
-<img src="/show-2.png"/><br>
+<img src="/show2.png"/><br>
 <br>
 ## 6.商务合作 (Business cooperation)
 微信：maxiuwo1314     _WeChat: maxiuwo1314_ <br>
