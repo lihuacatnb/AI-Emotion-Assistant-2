@@ -3,23 +3,20 @@
 
 ## 1.项目简介（Project Introduction）
 项目构建了一个基于 Ollama 平台的本地 AI 情绪助手系统，前端使用 Vue 框架，具备情感分析等功能。由于当前版本尚未进行调优，因此项目适用于本科毕业设计，不适用商业应用。<br>
-<br>
 _The project has built a local AI emotion assistant system based on the Ollama platform, using the Vue framework for the frontend, with features such as emotion analysis. As the current version has not been fine-tuned, the project is suitable for undergraduate dissertation work and not for commercial applications_ <br>
 ## 2.项目基础（Project Foundation）
 ### （1）前端基础（Front-end Foundation）
 前端使用了开源项目 __Fully-featured & beautiful web interface for Ollama LLMs__ , 网址为 https://github.com/jakobhoeg/nextjs-ollama-llm-ui .<br>
-<br>
 _The frontend of the user's project uses the open-source project __Fully-featured & beautiful web interface for Ollama LLMs__, available at https://github.com/jakobhoeg/nextjs-ollama-llm-ui_ 
 ### （2）后端基础（Back-end Foundation）
 后端的模型使用了 __L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF__ 模型，网址为 https://huggingface.co/Ransss/L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF <br>
-<br>
 _The backend of the user's project uses the __L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF__ model, available at https://huggingface.co/Ransss/L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF._
 ## 3.项目运行（Project Running）
 ### （1）前端环境 （Front-end Environment）
 Node 18.16.0 <br>
 ### （2）前端运行 （Front-end Running）
 npm install<br>
-npm run dev<br>
+npm run dev
 ### （3）后端环境 （Back-end Environment）
 Ollama 最新版 （The latest version of Ollama）<br>
 ### （4）后端运行 （Back-end Running）
