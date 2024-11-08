@@ -24,11 +24,11 @@ npm run dev
 Ollama 最新版 （The latest version of Ollama）
 ### （4）后端运行 （Back-end Running）
 下载好模型文件后，打开模型所在的文件夹，新建一个 __Modelfile__ 文件。新建后，模型文件结构如图所示<br>
-<br>
 _After downloading the model file, open the folder where the model is located and create a new file named __Modelfile__. Once created, the model file structure will appear as shown in the image._
 <br>
 <img src="/show11.png"/><br>
 使用记事本或任意文本编辑器打开 `Modelfile` 文件，输入以下内容
+_Open the `Modelfile` using Notepad or any text editor, and enter the following content._
 ```plaintext
     FROM <模型路径>/l3-umbral-mind-rp-v0.3-8b-q8_0.gguf
 ```
