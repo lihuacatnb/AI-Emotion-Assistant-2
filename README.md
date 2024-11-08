@@ -29,21 +29,11 @@ _After downloading the model file, open the folder where the model is located an
 <img src="/show1.png"/><br>
 <br>
 使用记事本或任意文本编辑器打开 `Modelfile` 文件，输入以下内容：
- ```plaintext
+```markdown
+```shell
     FROM <模型路径>/l3-umbral-mind-rp-v0.3-8b-q8_0.gguf
 
 
-
-
-
-
-
-
-    **示例：**
-
-    ```plaintext
-    FROM C:/Users/lihuacat/l3-umbral-mind-rp-v0.3-8b-q8_0/l3-umbral-mind-rp-v0.3-8b-q8_0.gguf
-    ```
 
 
 
