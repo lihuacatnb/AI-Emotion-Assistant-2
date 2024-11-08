@@ -27,7 +27,7 @@ Ollama 最新版 （The latest version of Ollama）
 <img src="/show1.png"/><br>
 <br>
 <br>
-用记事本打开 __Modelfile__ 文件，输入``FROM 模型路径/l3-umbral-mind-rp-v0.3-8b-q8_0.gguf`，例如``FROM C:/Users/lihuacat/l3-umbral-mind-rp-v0.3-8b-q8_0/l3-umbral-mind-rp-v0.3-8b-q8_0.gguf` <br>
+用记事本打开 __Modelfile__ 文件，输入`FROM 模型路径/l3-umbral-mind-rp-v0.3-8b-q8_0.gguf`，例如``FROM C:/Users/lihuacat/l3-umbral-mind-rp-v0.3-8b-q8_0/l3-umbral-mind-rp-v0.3-8b-q8_0.gguf` <br>
 <br>
 在 cmd 中先输入 __模型文件夹路径__ ，再输入 `ollama create l3-umbral-mind-rp-v0.3-8b-q8_0 -f Modelfile` <br>
 ##### -3-
