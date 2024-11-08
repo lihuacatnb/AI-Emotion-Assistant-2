@@ -24,17 +24,44 @@ npm run dev
 Ollama 最新版 （The latest version of Ollama）
 ### （4）后端运行 （Back-end Running）
 下载好模型文件后，打开模型所在的文件夹，新建一个 __Modelfile__ 文件。新建后，模型文件结构如图所示<br>
+_After downloading the model file, open the folder where the model is located and create a new file named __Modelfile__. Once created, the model file structure will appear as shown in the image._
+<br>
 <img src="/show1.png"/><br>
 <br>
-<br>
+使用记事本或任意文本编辑器打开 `Modelfile` 文件，输入以下内容：
+
+    ```plaintext
+    FROM <模型路径>/l3-umbral-mind-rp-v0.3-8b-q8_0.gguf
+    ```
+
+    **示例：**
+
+    ```plaintext
+    FROM C:/Users/lihuacat/l3-umbral-mind-rp-v0.3-8b-q8_0/l3-umbral-mind-rp-v0.3-8b-q8_0.gguf
+    ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 用记事本打开 __Modelfile__ 文件，输入`FROM 模型路径/l3-umbral-mind-rp-v0.3-8b-q8_0.gguf`，例如`FROM C:/Users/lihuacat/l3-umbral-mind-rp-v0.3-8b-q8_0/l3-umbral-mind-rp-v0.3-8b-q8_0.gguf` <br>
 <br>
 在 cmd 中先输入 __模型文件夹路径__ ，再输入 `ollama create l3-umbral-mind-rp-v0.3-8b-q8_0 -f Modelfile` <br>
-
-
-
-
-##### -3-
+<br>
 在 cmd 中输入 `ollama run l3-umbral-mind-rp-v0.3-8b-q8_0` 测试，注意修改路径。<br>
 _The model file is in the __/models__ folder in the __/others__ file. Note that the path needs to be modified to your own path._
 ## 4.开发人员（Developers）
