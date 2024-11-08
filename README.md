@@ -16,12 +16,12 @@ _The frontend of the user's project uses the open-source project __Fully-feature
 _The backend of the user's project uses the __L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF__ model, available at https://huggingface.co/Ransss/L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF._
 ## 3.项目运行（Project Running）
 ### （1）前端环境 （Front-end Environment）
-Node 18.16.0 <br>
+Node 18.16.0
 ### （2）前端运行 （Front-end Running）
 npm install<br>
 npm run dev
 ### （3）后端环境 （Back-end Environment）
-Ollama 最新版 （The latest version of Ollama）<br>
+Ollama 最新版 （The latest version of Ollama）
 ### （4）后端运行 （Back-end Running）
 #### <1> 模型部署
 部署请参考 Ollama 的 GitHub 仓库，在 README.md 文件中查看 __自定义模型__ 章节。<br>
