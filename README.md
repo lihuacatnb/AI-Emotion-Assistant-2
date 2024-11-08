@@ -28,7 +28,7 @@ _After downloading the model file, open the folder where the model is located an
 <br>
 <img src="/show11.png"/><br>
 使用记事本或任意文本编辑器打开 `Modelfile` 文件，输入以下内容
-_Open the `Modelfile` using Notepad or any text editor, and enter the following content._
+_Open the `Modelfile` using Notepad or any text editor, and enter the following content._ <br>
 <br>
 ```plaintext
     FROM <模型路径>/l3-umbral-mind-rp-v0.3-8b-q8_0.gguf
