@@ -3,16 +3,13 @@
 
 ## 1.项目简介（Project Introduction）
 项目构建了一个基于 Ollama 平台的本地 AI 情绪助手系统，前端使用 Vue 框架，具备情感分析等功能。由于当前版本尚未进行调优，因此项目适用于本科毕业设计，不适用商业应用。<br>
-<br>
 _The project has built a local AI emotion assistant system based on the Ollama platform, using the Vue framework for the frontend, with features such as emotion analysis. As the current version has not been fine-tuned, the project is suitable for undergraduate dissertation work and not for commercial applications_ <br>
 ## 2.项目基础（Project Foundation）
 ### （1）前端基础（Front-end Foundation）
 前端使用了开源项目 __Fully-featured & beautiful web interface for Ollama LLMs__ , 网址为 https://github.com/jakobhoeg/nextjs-ollama-llm-ui <br>
-<br>
 _The frontend of the user's project uses the open-source project __Fully-featured & beautiful web interface for Ollama LLMs__, available at https://github.com/jakobhoeg/nextjs-ollama-llm-ui_ 
 ### （2）后端基础（Back-end Foundation）
 后端的模型使用了 __L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF__ 模型，网址为 https://huggingface.co/Ransss/L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF <br>
-<br>
 _The backend of the user's project uses the __L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF__ model, available at https://huggingface.co/Ransss/L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF_
 ## 3.项目运行（Project Running）
 ### （1）前端环境 （Front-end Environment）
@@ -24,12 +21,9 @@ npm run dev
 Ollama 最新版 （The latest version of Ollama）
 ### （4）后端运行 （Back-end Running）
 下载好模型文件后，打开模型所在的文件夹，新建一个 __Modelfile__ 文件。新建后，模型文件结构如图所示<br>
-<br>
 _After downloading the model file, open the folder where the model is located and create a new file named __Modelfile__. Once created, the model file structure will appear as shown in the image._ <br>
-<br>
 <img src="/show11.png"/><br>
 使用记事本或任意文本编辑器打开 `Modelfile` 文件，输入以下内容<br>
-<br>
 _Open the `Modelfile` using Notepad or any text editor, and enter the following content._ <br>
 
 ```plaintext
@@ -42,10 +36,8 @@ Example
 ```plaintext
     FROM C:/Users/lihuacat/l3-umbral-mind-rp-v0.3-8b-q8_0/l3-umbral-mind-rp-v0.3-8b-q8_0.gguf
 ```
-<br>
 
 在 cmd 中先输入 __模型文件夹路径__ ，再输入<br>
-<br>
 In the command prompt, first enter the __model folder path__, then enter
 
 ```plaintext
@@ -54,7 +46,6 @@ In the command prompt, first enter the __model folder path__, then enter
 
 <br>
 最后，在 cmd 中输入以下命令来测试<br>
-<br>
 Finally, enter the following command in cmd to test
 
 ```plaintext
