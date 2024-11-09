@@ -53,7 +53,8 @@ Finally, enter the following command in cmd to test
 ```
 
 ## 4.开发人员（Developers）
-狸猫科技 _Lihuacat Technology_ <br>
+狸猫科技<br>
+_Lihuacat Technology_ <br>
 <br>
 感谢燕京理工学院 __陈炜导师__ 的指导 <br>
 _Thanks to __Mentor Chen Wei__ from Yanjing University of Science and Technology for the guidance._ <br>
