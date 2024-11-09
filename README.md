@@ -21,7 +21,8 @@ Node 18.16.0
 npm install<br>
 npm run dev
 ### （3）后端环境 （Back-end Environment）
-Ollama 最新版 （The latest version of Ollama）
+Ollama 最新版<br>
+_The latest version of Ollama_
 ### （4）后端运行 （Back-end Running）
 下载好模型文件后，打开模型所在的文件夹，新建一个 __Modelfile__ 文件。新建后，模型文件结构如图所示<br>
 _After downloading the model file, open the folder where the model is located and create a new file named __Modelfile__. Once created, the model file structure will appear as shown in the image._ <br>
