@@ -34,14 +34,15 @@ _Open the `Modelfile` using Notepad or any text editor, and enter the following 
 ```
 <br>
 示例<br>
-Example
+
+_Example_
 
 ```plaintext
     FROM C:/Users/lihuacat/l3-umbral-mind-rp-v0.3-8b-q8_0/l3-umbral-mind-rp-v0.3-8b-q8_0.gguf
 ```
 
 在 cmd 中先输入 __模型文件夹路径__ ，再输入<br>
-In the command prompt, first enter the __model folder path__, then enter
+_In the command prompt, first enter the __model folder path__, then enter_
 
 ```plaintext
     ollama create l3-umbral-mind-rp-v0.3-8b-q8_0 -f Modelfile
@@ -49,7 +50,8 @@ In the command prompt, first enter the __model folder path__, then enter
 
 <br>
 最后，在 cmd 中输入以下命令来测试<br>
-Finally, enter the following command in cmd to test
+
+_Finally, enter the following command in cmd to test_
 
 ```plaintext
     ollama run l3-umbral-mind-rp-v0.3-8b-q8_0
