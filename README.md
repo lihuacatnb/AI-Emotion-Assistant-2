@@ -34,7 +34,7 @@ _Open the `Modelfile` using Notepad or any text editor, and enter the following 
     FROM <模型路径>/l3-umbral-mind-rp-v0.3-8b-q8_0.gguf
 ```
 <br>
-示例
+示例<br>
 example
 
 ```plaintext
