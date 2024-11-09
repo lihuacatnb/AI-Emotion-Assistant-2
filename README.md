@@ -24,10 +24,12 @@ npm run dev
 Ollama 最新版 （The latest version of Ollama）
 ### （4）后端运行 （Back-end Running）
 下载好模型文件后，打开模型所在的文件夹，新建一个 __Modelfile__ 文件。新建后，模型文件结构如图所示<br>
+<br>
 _After downloading the model file, open the folder where the model is located and create a new file named __Modelfile__. Once created, the model file structure will appear as shown in the image._ <br>
 <br>
 <img src="/show11.png"/><br>
 使用记事本或任意文本编辑器打开 `Modelfile` 文件，输入以下内容<br>
+<br>
 _Open the `Modelfile` using Notepad or any text editor, and enter the following content._ <br>
 
 ```plaintext
@@ -43,6 +45,7 @@ Example
 <br>
 
 在 cmd 中先输入 __模型文件夹路径__ ，再输入<br>
+<br>
 In the command prompt, first enter the __model folder path__, then enter
 
 ```plaintext
@@ -51,6 +54,7 @@ In the command prompt, first enter the __model folder path__, then enter
 
 <br>
 最后，在 cmd 中输入以下命令来测试<br>
+<br>
 Finally, enter the following command in cmd to test
 
 ```plaintext
