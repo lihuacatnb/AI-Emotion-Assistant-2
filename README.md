@@ -74,6 +74,7 @@ _Thanks to __Mentor Liu Shuyan__ from Yanjing University of Science and Technolo
 <img src="/show2.png"/><br>
 <br>
 ## 6.商务合作 (Business cooperation)
-微信：maxiuwo1314     _WeChat: maxiuwo1314_ <br>
-邮箱：zhaogangbjm@gmail.com     _Email：zhaogangbjm@gmail.com_
+微信：maxiuwo1314   邮箱：zhaogangbjm@gmail.com<br> 
+<br>
+_WeChat: maxiuwo1314    Email：zhaogangbjm@gmail.com_
 
