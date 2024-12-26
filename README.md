@@ -65,7 +65,7 @@ _Finally, enter the following command in cmd to test_
 感谢燕京理工学院 __陈炜导师__  <br>
 _Thanks to __Mentor Chen Wei__ from Yanjing University of Science and Technology._ <br>
 <br>
-感谢燕京理工学院 __刘淑艳导师__ 的指导 <br>
+感谢燕京理工学院 __刘淑艳导师__  <br>
 _Thanks to __Mentor Liu Shuyan__ from Yanjing University of Science and Technology._
 ## 5.项目展示（Project Display）
 <img src="/show-1.png"/><br>
