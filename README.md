@@ -60,8 +60,7 @@ _Finally, enter the following command in cmd to test_
 ```
 
 ## 4.开发人员（Developers）
-狸猫C型AI （CatC AI）<br>
-_Lihuacat C-Type AI （CatC AI）_ <br>
+狸猫C型AI （LH-Cat AI）<br>
 <br>
 感谢燕京理工学院 __陈炜导师__  <br>
 _Thanks to __Mentor Chen Wei__ from Yanjing University of Science and Technology._ <br>
