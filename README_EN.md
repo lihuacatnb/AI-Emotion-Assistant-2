@@ -28,7 +28,6 @@ Ollama
 <br>
 
 - Open the `Modelfile` with Notepad or any text editor, and enter the following content:
-<br>
 
 ```plaintext
     FROM <model_path>/l3-umbral-mind-rp-v0.3-8b-q8_0.gguf
@@ -36,7 +35,6 @@ Ollama
 <br>
 
 - Example Modelfile:
-<br>
 
 ```plaintext
     FROM C:/Users/lihuacat/l3-umbral-mind-rp-v0.3-8b-q8_0/l3-umbral-mind-rp-v0.3-8b-q8_0.gguf
@@ -44,7 +42,6 @@ Ollama
 <br>
 
 - In __cmd__, go to the __model folder path__ and execute:
-<br>
 
 ```plaintext
     ollama create l3-umbral-mind-rp-v0.3-8b-q8_0 -f Modelfile
@@ -52,7 +49,6 @@ Ollama
 <br>
 
 - Test run:
-<br>
 
 ```plaintext
     ollama run l3-umbral-mind-rp-v0.3-8b-q8_0
