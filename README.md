@@ -29,7 +29,7 @@ Ollama<br>
 ```plaintext
     FROM <模型路径>/l3-umbral-mind-rp-v0.3-8b-q8_0.gguf
 ```
-
+<br>
 Modelfile文件示例：
 
 ```plaintext
@@ -43,7 +43,7 @@ Modelfile文件示例：
 ```plaintext
     ollama create l3-umbral-mind-rp-v0.3-8b-q8_0 -f Modelfile
 ```
-
+<br>
 测试运行：
 
 ```plaintext
