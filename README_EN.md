@@ -22,6 +22,38 @@ Node 18.16.0
 - npm run dev
 ### （3）Back-end Environment
 Ollama
+### (4) Back-end Running
+- After downloading the model file, create a new **Modelfile** in the model folder. Example directory structure:  
+<img src="/show11.png"/>
+<br>
+
+- Open the `Modelfile` with Notepad or any text editor, and enter the following content:
+<br>
+```plaintext
+    FROM <model_path>/l3-umbral-mind-rp-v0.3-8b-q8_0.gguf
+```
+<br>
+
+- Example Modelfile:
+<br>
+```plaintext
+    FROM C:/Users/lihuacat/l3-umbral-mind-rp-v0.3-8b-q8_0/l3-umbral-mind-rp-v0.3-8b-q8_0.gguf
+```
+<br>
+
+- In __cmd__, go to the __model folder path__ and execute:
+<br>
+```plaintext
+    ollama create l3-umbral-mind-rp-v0.3-8b-q8_0 -f Modelfile
+```
+<br>
+
+- Test run:
+<br>
+```plaintext
+    ollama run l3-umbral-mind-rp-v0.3-8b-q8_0
+```
+
 
 ## 4.Developers
 - LH-Cat AI
