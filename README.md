@@ -1,80 +1,68 @@
 # 基于Ollama的AI情绪助手
-# AI Emotion Assistant Based on Ollama
 
-## 1.项目简介（Project Introduction）
-项目构建了一个基于 Ollama 平台的本地 AI 情绪助手系统，前端使用 Vue 框架，具备情感分析等功能。由于当前版本尚未进行调优，因此项目适用于本科毕业设计，不适用商业应用。<br>
-<br>
-_The project has built a local AI emotion assistant system based on the Ollama platform, using the Vue framework for the frontend, with features such as emotion analysis. As the current version has not been fine-tuned, the project is suitable for undergraduate dissertation work and not for commercial applications_ <br>
-## 2.项目基础（Project Foundation）
-### （1）前端基础（Front-end Foundation）
-前端使用了开源项目 __Fully-featured & beautiful web interface for Ollama LLMs__ , 网址为 https://github.com/jakobhoeg/nextjs-ollama-llm-ui <br>
-<br>
-_The frontend of the user's project uses the open-source project __Fully-featured & beautiful web interface for Ollama LLMs__, available at https://github.com/jakobhoeg/nextjs-ollama-llm-ui_ 
-### （2）后端基础（Back-end Foundation）
-后端的模型使用了 __L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF__ 模型，网址为 https://huggingface.co/Ransss/L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF <br>
-<br>
-_The backend of the user's project uses the __L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF__ model, available at https://huggingface.co/Ransss/L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF_
-## 3.项目运行（Project Running）
-### （1）前端环境 （Front-end Environment）
+---
+
+📖 **本 README 为中文版本**，点击这里查看 [English version](./README_EN.md)  
+
+---
+
+## 1.项目简介
+本项目构建了一个基于 Ollama 平台 的本地 AI 情绪助手系统，支持情感分析等功能，适用于本科毕业设计。
+
+## 2.项目基础
+- 前端使用 Vue 框架，基于开源项目[Fully-featured & beautiful web interface for Ollama LLMs](https://github.com/jakobhoeg/nextjs-ollama-llm-ui)
+- 后端的模型使用 [L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF](https://huggingface.co/Ransss/L3-Umbral-Mind-RP-v0.3-8B-Q8_0-GGUF)
+
+## 3.项目运行
+### （1）前端环境
 Node 18.16.0
-### （2）前端运行 （Front-end Running）
-npm install<br>
-npm run dev
-### （3）后端环境 （Back-end Environment）
-Ollama 最新版<br>
-_The latest version of Ollama_
+### （2）前端运行
+- npm install
+- npm run dev
+### （3）后端环境
+Ollama<br>
 ### （4）后端运行 （Back-end Running）
-下载好模型文件后，打开模型所在的文件夹，新建一个 __Modelfile__ 文件。新建后，模型文件结构如图所示<br>
-_After downloading the model file, open the folder where the model is located and create a new file named __Modelfile__. Once created, the model file structure will appear as shown in the image._ <br>
-<br>
+- 下载模型文件后，在模型文件夹下新建一个 __Modelfile__  文件，目录结构示例：
 <img src="/show11.png"/><br>
-使用记事本或任意文本编辑器打开 `Modelfile` 文件，输入以下内容<br>
-_Open the `Modelfile` using Notepad or any text editor, and enter the following content._ <br>
+
+- 使用记事本或任意文本编辑器打开 `Modelfile` 文件，输入以下内容：<br>
 
 ```plaintext
     FROM <模型路径>/l3-umbral-mind-rp-v0.3-8b-q8_0.gguf
 ```
-<br>
-示例<br>
 
-_Example_
+示例：
 
 ```plaintext
     FROM C:/Users/lihuacat/l3-umbral-mind-rp-v0.3-8b-q8_0/l3-umbral-mind-rp-v0.3-8b-q8_0.gguf
 ```
 
-在 cmd 中先输入 __模型文件夹路径__ ，再输入<br>
-_In the command prompt, first enter the __model folder path__, then enter_
+<br>
 
+- 在 cmd 中进入 __模型文件夹路径__ ，执行：
+- 
 ```plaintext
     ollama create l3-umbral-mind-rp-v0.3-8b-q8_0 -f Modelfile
 ```
 
-<br>
-最后，在 cmd 中输入以下命令来测试<br>
-
-_Finally, enter the following command in cmd to test_
+- 测试运行：
 
 ```plaintext
     ollama run l3-umbral-mind-rp-v0.3-8b-q8_0
 ```
 
-## 4.开发人员（Developers）
-狸猫C型AI （LH-Cat AI）<br>
-<br>
-感谢燕京理工学院 __陈炜导师__  <br>
-_Thanks to __Mentor Chen Wei__ from Yanjing University of Science and Technology._ <br>
-<br>
-感谢燕京理工学院 __刘淑艳导师__  <br>
-_Thanks to __Mentor Liu Shuyan__ from Yanjing University of Science and Technology._
-## 5.项目展示（Project Display）
+
+## 4.开发人员
+-狸猫C型AI
+-感谢燕京理工学院 __陈炜导师__
+
+## 5.项目展示
 <img src="/show-1.png"/><br>
 <br>
 <br>
 <img src="/show2.png"/><br>
 <br>
-## 6.商务合作 (Business cooperation)
-微信：maxiuwo1314 &nbsp;&nbsp;&nbsp;&nbsp; 邮箱：zhaogangbjm@gmail.com<br> 
-<br>
-_WeChat: maxiuwo1314 &nbsp;&nbsp;&nbsp;&nbsp; Email：zhaogangbjm@gmail.com_
 
+---
+
+<p align="center">⭐️ 如果你觉得有帮助，欢迎点个 Star 支持一下！ ⭐️</p>
