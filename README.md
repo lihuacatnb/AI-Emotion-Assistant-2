@@ -22,16 +22,15 @@ Node 18.16.0
 ### （3）后端环境
 Ollama<br>
 ### （4）后端运行 （Back-end Running）
-- 下载模型文件后，在模型文件夹下新建一个 __Modelfile__  文件，目录结构示例：
+下载模型文件后，在模型文件夹下新建一个 __Modelfile__  文件，目录结构示例：<br>
 <img src="/show11.png"/><br>
-
-- 使用记事本或任意文本编辑器打开 `Modelfile` 文件，输入以下内容：<br>
+使用记事本或任意文本编辑器打开 `Modelfile` 文件，输入以下内容：<br>
 
 ```plaintext
     FROM <模型路径>/l3-umbral-mind-rp-v0.3-8b-q8_0.gguf
 ```
 
-示例：
+Modelfile文件示例：
 
 ```plaintext
     FROM C:/Users/lihuacat/l3-umbral-mind-rp-v0.3-8b-q8_0/l3-umbral-mind-rp-v0.3-8b-q8_0.gguf
@@ -39,13 +38,13 @@ Ollama<br>
 
 <br>
 
-- 在 cmd 中进入 __模型文件夹路径__ ，执行：
-- 
+在 cmd 中进入 __模型文件夹路径__ ，执行：
+
 ```plaintext
     ollama create l3-umbral-mind-rp-v0.3-8b-q8_0 -f Modelfile
 ```
 
-- 测试运行：
+测试运行：
 
 ```plaintext
     ollama run l3-umbral-mind-rp-v0.3-8b-q8_0
