@@ -22,8 +22,9 @@ Node 18.16.0
 ### （3）后端环境
 Ollama<br>
 ### （4）后端运行 （Back-end Running）
-<br>
+
 - 下载模型文件后，在模型文件夹下新建一个 __Modelfile__  文件，目录结构示例：
+
 <br>
 <img src="/show11.png"/>
 
